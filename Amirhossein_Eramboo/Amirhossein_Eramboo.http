@@ -1,0 +1,6 @@
+@Amirhossein_Eramboo_HostAddress = http://localhost:5071
+
+GET {{Amirhossein_Eramboo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
